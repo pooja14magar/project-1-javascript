@@ -1,1 +1,1 @@
-# practice-1
+# project-1-javascript
